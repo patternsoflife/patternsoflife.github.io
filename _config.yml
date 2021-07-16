@@ -30,7 +30,11 @@ baseurl: "/pol-pages" # the subpath of your site, e.g. /blog
 url: "https://redesigningpsychiatry.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote-theme: jekyll/minima
+markdown: kramdown
+remote_theme: sandervoerman/jesuis
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -43,10 +47,6 @@ minima:
   social_links:
     twitter: redesignpsych
     github:  redesigningpsychiatry
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
