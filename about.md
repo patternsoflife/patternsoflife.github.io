@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
+
+# About
 
 Patterns of Life is a research and development project by [Parnassia Groep] and
 [Redesigning Psychiatry]. Its aim is to study new forms of diagnostic and
