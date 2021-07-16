@@ -31,7 +31,7 @@ url: "https://redesigningpsychiatry.github.io" # the base hostname & protocol fo
 
 # Build settings
 markdown: kramdown
-remote_theme: sandervoerman/jesuis
+remote_theme: redesigningpsychiatry/pol-pages-theme
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
