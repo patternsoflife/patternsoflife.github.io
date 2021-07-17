@@ -6,4 +6,4 @@ layout: home
 list_title: Latest News
 ---
 
-Welcome banner goes here.
+*(welcome banner goes here)*
