@@ -23,10 +23,9 @@ author:
   name: Sander Voerman
   email: sander@redesigningpsychiatry.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Patterns of Life is a research and development project by Parnassia Groep and
-  Redesigning Psychiatry. Its aim is to study new forms of diagnostic and
-  prognostic cocreation between clients and professionals in the field of mental
-  health care.
+  The Patterns of Life project aims to study and develop new forms of
+  diagnostic and prognostic cocreation between clients and professionals in the
+  field of mental health care.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.patternsoflife.nl" # the base hostname & protocol for your site, e.g. http://example.com
 
