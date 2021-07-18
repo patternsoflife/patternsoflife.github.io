@@ -3,10 +3,16 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: What is Patterns of Life?
-list_title: Latest News
+title: Wat is Patterns of Life?
+list_title: Laatste Nieuws
 banner:
-  title: "The new paradigm<br> in mental health is<br> focused on patterns."
-  blurb: "We are working towards a science that helps people identify and modify the interacting patterns that underly, and sometimes undermine, their lives."
+  title: "Het nieuwe paradigma van mentale gezondheid is gericht op patronen."
+  blurb: "We werken aan een wetenschap die mensen helpt bij het begrijpen en veranderen van de patronen die het leven mogelijk en soms onmogelijk maken."
   video: simplified3
+translate:
+  en: "/"
 ---
+
+Het Patterns of Life project doet onderzoek naar nieuwe vormen van cocreatie
+tussen cliënten en hulpverleners op het gebied van diagnostiek en prognostiek.
+[Lees verder…]({% link over.md %})
