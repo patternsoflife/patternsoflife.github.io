@@ -6,7 +6,7 @@ layout: home
 title: Wat is Patterns of Life?
 list_title: Laatste Nieuws
 banner:
-  title: "Het nieuwe paradigma van mentale gezondheid is gericht op patronen."
+  title: "Het nieuwe paradigma voor de ggz gaat over patronen."
   blurb: "We werken aan een wetenschap die mensen helpt bij het begrijpen en veranderen van de patronen die het leven mogelijk en soms onmogelijk maken."
   video: simplified3
 translate:
