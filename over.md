@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Over
+long_title: Over Patterns of Life
 permalink: /over/
 translate:
   en: /about/
@@ -21,7 +22,7 @@ met het oog op verminderde stigmatising en een betere toepasbaarheid op
 transdiagnostische analyse.
 
 De gebruikersgegevens in deze applicatie zullen worden onderzocht door het
-Mark van der Gaag Research Centre van [Parnassia Groep] en de
+[Mark van der Gaag Research Centre] van [Parnassia Groep] en de
 [Vrije Universiteit Amsterdam], om een goede wetenschappelijke basis te leggen
 voor toekomstig onderzoek en de klinische praktijk.
 
@@ -29,4 +30,5 @@ voor toekomstig onderzoek en de klinische praktijk.
 [Redesigning Psychiatry]: https://www.redesigningpsychiatry.org
 [PsyQ]: https://www.psyq.nl/
 [Label A]: https://www.labela.nl/
+[Mark van der Gaag Research Centre]: https://mrcresearch.nl/
 [Vrije Universiteit Amsterdam]: https://vu.nl/nl/
