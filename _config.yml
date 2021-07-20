@@ -35,3 +35,4 @@ exclude:
 collections:
   team:
     output: true
+    permalink: /team/:name

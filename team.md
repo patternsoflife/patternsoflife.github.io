@@ -4,5 +4,5 @@ title: Team
 long_title: Projectteam
 permalink: /team/
 translate:
-  en: /people/
+  en: /team/
 ---
