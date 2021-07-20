@@ -2,6 +2,8 @@
 name: Deanne Spek
 role: projectondersteuner
 layout: team_member
+translate:
+  en: /team/deanne
 ---
 Deanne doet de master *Integrated Product Design* aan de
 [Technische Universiteit van Delft]. Ze zet haar ervaring in de GGZ graag in om
