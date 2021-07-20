@@ -1,6 +1,7 @@
 ---
 name: David van den Berg
 role: klinisch psycholoog
+layout: team_member
 ---
 David is klinisch psycholoog, afdelingshoofd van het
 [Mark van der Gaag Research Centre] en specialismeleider psychosen bij

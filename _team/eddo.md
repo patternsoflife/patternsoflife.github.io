@@ -1,6 +1,7 @@
 ---
 name: Eddo Velders
 role: innovatiemanager
+layout: team_member
 ---
 Eddo initieert en begeleidt verschillende innovatieprojecten bij
 [Parnassia Groep]. Hij helpt de Parnassia organisatie van 2030 vorm te geven.
