@@ -7,4 +7,4 @@ translate:
 ---
 Femke is ontwerper bij [Redesigning Psychiatry], waar ze werkt aan verschillende projecten rondom mentale gezondheid.
 
-[Redesigining Psychiatry]: https://www.redesiginingpsychiatry.org/
+[Redesigning Psychiatry]: https://www.redesiginingpsychiatry.org/
