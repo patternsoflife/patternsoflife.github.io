@@ -1,6 +1,21 @@
-## Welcome to GitHub Pages
+# Patterns of Life website
 
-You can use the [editor on GitHub](https://github.com/redesigningpsychiatry/pol-pages/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About this repository
+
+This repository contains the Dutch pages for the
+[Patterns of Life](https://www.patternsoflife.nl/) website, and some
+shared assets for the site as a whole.
+
+The entire website is generated out of three repositories:
+
+- this repository: dutch pages and large shared assets
+- [patternsoflife/en](https://github.com/patternsoflife/en): english pages
+- [patternsoflife/pages-theme](https://github.com/patternsoflife/pages-theme): theme files and small shared assets
+
+
+## About GitHub Pages
+
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
