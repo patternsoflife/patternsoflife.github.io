@@ -24,9 +24,14 @@ minima:
 header_pages:
  - over.md
  - nieuws.md
- - mensen.md
+ - team.md
  - publicaties.md
 
 # Paths to exclude from processing
 exclude:
   - README.md
+
+# See https://jekyllrb.com/docs/collections/
+collections:
+  team:
+    output: true
