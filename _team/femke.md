@@ -1,5 +1,5 @@
 ---
-name: Femke de Boer
+full_name: Femke de Boer
 role: ontwerper
 layout: team_member
 translate:

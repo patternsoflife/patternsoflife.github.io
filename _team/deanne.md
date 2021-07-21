@@ -1,5 +1,5 @@
 ---
-name: Deanne Spek
+full_name: Deanne Spek
 role: projectondersteuner
 layout: team_member
 translate:

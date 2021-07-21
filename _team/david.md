@@ -1,5 +1,5 @@
 ---
-name: David van den Berg
+full_name: David van den Berg
 role: klinisch psycholoog
 layout: team_member
 translate:

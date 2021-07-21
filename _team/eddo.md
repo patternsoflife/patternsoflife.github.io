@@ -1,5 +1,5 @@
 ---
-name: Eddo Velders
+full_name: Eddo Velders
 role: innovatiemanager
 layout: team_member
 translate:
