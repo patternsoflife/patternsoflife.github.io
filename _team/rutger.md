@@ -1,16 +1,18 @@
 ---
-full_name: Deanne Spek
-role: projectondersteuner
+full_name: Rutger Goekoop
+role: vul hier de rol in
 layout: team_member
+
+# Kies en vul in wat van toepassing is
 social_links:
-  # twitter: jekyllrb
-  github:  Ideanne
+  twitter: jekyllrb
+  # github:  jekyll
   # devto: jekyll
   # dribbble: jekyll
-  # facebook: jekyll
+  facebook: jekyll
   # flickr:   jekyll
   # instagram: jekyll
-  linkedin: deanne-spek
+  linkedin: jekyll
   # pinterest: jekyll
   # youtube: jekyll
   # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -35,11 +37,6 @@ social_links:
   #   instance: example.com
 
 translate:
-  en: /team/deanne
+  en: /team/rutger
 ---
-Deanne doet de master *Integrated Product Design* aan de
-[Technische Universiteit van Delft]. Ze zet haar ervaring in de GGZ graag in om
-anderen te helpen. Bij het *Patterns of Life* project heeft ze de mogelijkheid
-om die ervaring te combineren met haar passie voor ontwerpen.
-
-[Technische Universiteit van Delft]: https://www.tudelft.nl/
+Plaats hier een uitgebreide omschrijving in markdown.
