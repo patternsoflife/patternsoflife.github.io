@@ -3,7 +3,7 @@ full_name: Sander Voerman
 role: filosoof
 layout: team_member
 translate:
-  en: /team/david
+  en: /team/sander
 social_links:
   github: sandervoerman
   linkedin: savoerman
