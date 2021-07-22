@@ -1,12 +1,12 @@
 ---
 full_name: Jim Driessen
-role: vul hier de rol in
+role: PhD student psychologie
 layout: team_member
 
 # Kies en vul in wat van toepassing is
 social_links:
   twitter: jekyllrb
-  # github:  jekyll
+  github:  jekyll
   # devto: jekyll
   # dribbble: jekyll
   facebook: jekyll
@@ -39,4 +39,9 @@ social_links:
 translate:
   en: /team/jim
 ---
-Plaats hier een uitgebreide omschrijving in markdown.
+Jim heeft klinische psychologie gestudeerd aan de [Universiteit Leiden].
+Naast het praktijkwerk van een psycholoog is hij geïnteresseerd in IT en
+onderzoek. Deze drie interesses komen samen in zijn PhD positie van het
+*Patterns of Life* project.
+
+[Universiteit Leiden]: https://www.universiteitleiden.nl/
