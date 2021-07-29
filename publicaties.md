@@ -6,4 +6,5 @@ translate:
   en: /publications/
 ---
 
-De publicaties!
+* [Dit is een link](https://example.com)
+* Dit is nog geen link (onder constructie)
