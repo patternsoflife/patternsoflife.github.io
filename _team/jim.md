@@ -5,7 +5,7 @@ layout: team_member
 
 # Kies en vul in wat van toepassing is
 social_links:
-  twitter: jekyllrb
+  # twitter: jekyllrb
   github:  jekyll
   # devto: jekyll
   # dribbble: jekyll
