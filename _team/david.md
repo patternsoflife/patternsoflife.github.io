@@ -40,7 +40,7 @@ translate:
 David is klinisch psycholoog, afdelingshoofd van het
 [Mark van der Gaag Research Centre] en specialismeleider psychosen bij
 [Parnassia Groep]. Daarnaast is hij kernteamlid bij [Redesigning Psychiatry]
-en mede-oprichter van het Patterns of Life project.
+en mede-oprichter van het *Patterns of Life* project.
 
 [Mark van der Gaag Research Centre]: https://www.mrcresearch.nl/
 [Parnassia Groep]: https://www.parnassiagroep.nl/

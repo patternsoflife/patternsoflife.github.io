@@ -1,18 +1,18 @@
 ---
 full_name: Rutger Goekoop
-role: vul hier de rol in
+role: psychiater
 layout: team_member
 
 # Kies en vul in wat van toepassing is
 social_links:
-  twitter: jekyllrb
+  # twitter: jekyllrb
   # github:  jekyll
   # devto: jekyll
   # dribbble: jekyll
-  facebook: jekyll
+  # facebook: jekyll
   # flickr:   jekyll
   # instagram: jekyll
-  linkedin: jekyll
+  linkedin: rutger-goekoop-7595285
   # pinterest: jekyll
   # youtube: jekyll
   # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -39,4 +39,6 @@ social_links:
 translate:
   en: /team/rutger
 ---
-Plaats hier een uitgebreide omschrijving in markdown.
+Rutger is psychiater bij [Parnassia Groep], en geeft ook toespraken en praatjes over o.a. de netwerktheorie en trans-diagnostisch denken. Daarnaast is hij mede projectoprichter van het *Patterns of Life* project.
+
+[Parnassia Groep]: https://www.parnassiagroep.nl/
