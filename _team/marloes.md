@@ -39,5 +39,8 @@ translate:
 ---
 Marloes is klinisch psycholoog bij [Parnassia Groep], manager zorg bij het PsyQ [Early Detection and Intervention Team], en praktijkopleider. Daarvoor heeft ze gewerkt met verschillende doelgroepen binnen zorgbedrijven van PG. Ze kwam tot het inzicht dat er veel overeenkomsten tussen al deze mensen op de verschillende afdelingen zijn en dat het opdelen van mensen in hokjes niet is hoe de menselijke psyche werkt. Daarom is ze nu projectleider van het *Patterns of Life* team.
 
+#### Interview
+[Marloes aan het woord]({% link _posts/2021-09-13-marloes.md %})
+
 [Early Detection and Intervention Team]: https://www.topggz.nl/afdeling/psyq-edit
 [Parnassia Groep]: https://www.parnassiagroep.nl/

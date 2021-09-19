@@ -13,4 +13,7 @@ andere rollen. Hij stelt de juiste vragen en wil altijd meer weten. Ook bij
 *Patterns of Life* weet hij continu te switchen tussen het concrete en het
 abstracte.
 
+#### Interview
+[Leer Sander kennen]({% link _posts/2021-09-13-sander.md %})
+
 [Redesigning Psychiatry]: https://www.redesigningpsychiatry.org/

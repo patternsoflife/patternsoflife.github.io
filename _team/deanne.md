@@ -42,4 +42,7 @@ Deanne doet de master *Integrated Product Design* aan de
 anderen te helpen. Bij het *Patterns of Life* project heeft ze de mogelijkheid
 om die ervaring te combineren met haar passie voor ontwerpen.
 
+#### Interview
+[Maak kennis met Deanne]({% link _posts/2021-09-13-deanne.md %})
+
 [Technische Universiteit van Delft]: https://www.tudelft.nl/
