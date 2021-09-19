@@ -41,4 +41,7 @@ translate:
 ---
 Rutger is psychiater bij [Parnassia Groep], en geeft ook toespraken en praatjes over o.a. de netwerktheorie en trans-diagnostisch denken. Daarnaast is hij mede projectoprichter van het *Patterns of Life* project.
 
+#### Interview
+[De kijk van Rutger]({% link _posts/2021-09-19-rutger.md %})
+
 [Parnassia Groep]: https://www.parnassiagroep.nl/

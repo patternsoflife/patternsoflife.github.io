@@ -41,4 +41,7 @@ Eddo initieert en begeleidt verschillende innovatieprojecten bij
 [Parnassia Groep]. Hij helpt de Parnassia organisatie van 2030 vorm te geven.
 Eén van die innovatieprojecten is *Patterns of Life*.
 
+#### Interview
+[Een interview met Eddo]({% link _posts/2021-09-19-eddo.md %})
+
 [Parnassia Groep]: https://www.parnassiagroep.nl/
