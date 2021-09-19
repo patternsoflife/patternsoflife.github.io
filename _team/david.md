@@ -43,7 +43,7 @@ David is klinisch psycholoog, afdelingshoofd van het
 en mede-oprichter van het *Patterns of Life* project.
 
 #### Interview
-[David over Patterns of Life]({% link _posts/2021-09-13-david.md %})
+[David over Patterns of Life]({% link _posts/2021-09-19-david.md %})
 
 [Mark van der Gaag Research Centre]: https://www.mrcresearch.nl/
 [Parnassia Groep]: https://www.parnassiagroep.nl/

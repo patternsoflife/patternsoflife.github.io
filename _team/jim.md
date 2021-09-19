@@ -45,6 +45,6 @@ onderzoek. Deze drie interesses komen samen in zijn PhD positie van het
 *Patterns of Life* project.
 
 #### Interview
-[Dit is Jim]({% link _posts/2021-09-13-jim.md %})
+[Dit is Jim]({% link _posts/2021-09-19-jim.md %})
 
 [Universiteit Leiden]: https://www.universiteitleiden.nl/

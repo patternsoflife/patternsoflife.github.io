@@ -14,6 +14,6 @@ andere rollen. Hij stelt de juiste vragen en wil altijd meer weten. Ook bij
 abstracte.
 
 #### Interview
-[Leer Sander kennen]({% link _posts/2021-09-13-sander.md %})
+[Leer Sander kennen]({% link _posts/2021-09-19-sander.md %})
 
 [Redesigning Psychiatry]: https://www.redesigningpsychiatry.org/

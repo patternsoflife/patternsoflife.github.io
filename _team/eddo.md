@@ -42,6 +42,6 @@ Eddo initieert en begeleidt verschillende innovatieprojecten bij
 Eén van die innovatieprojecten is *Patterns of Life*.
 
 #### Interview
-[Een interview met Eddo]({% link _posts/2021-09-13-eddo.md %})
+[Een interview met Eddo]({% link _posts/2021-09-19-eddo.md %})
 
 [Parnassia Groep]: https://www.parnassiagroep.nl/
