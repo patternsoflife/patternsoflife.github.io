@@ -25,7 +25,7 @@ header_pages:
  - over.md
  - nieuws.md
  - team.md
- - publicaties.md
+ - onderzoek.md
 
 # Paths to exclude from processing
 exclude:
