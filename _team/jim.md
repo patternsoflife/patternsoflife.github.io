@@ -42,7 +42,7 @@ translate:
 Jim heeft klinische psychologie gestudeerd aan de [Universiteit Leiden].
 Naast het praktijkwerk van een psycholoog is hij geïnteresseerd in IT en
 onderzoek. Deze drie interesses komen samen in zijn PhD positie van het
-*Patterns of Life* project.
+*Patterns of Life* project. Vandaar.
 
 #### Interview
 [Dit is Jim]({% link _posts/2021-09-19-jim.md %})
